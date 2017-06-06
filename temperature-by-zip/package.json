@@ -1,0 +1,20 @@
+{
+  "name": "temperature-by-zip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node-es6 app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-es6": "^0.3.1"
+  },
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "forecastio": "^1.0.2",
+    "zippity-do-dah": "0.0.2"
+  }
+}
